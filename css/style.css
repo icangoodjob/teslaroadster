@@ -7,7 +7,6 @@ url('../fonts/RobotoCondensed-Regular.ttf') format('truetype');
 font-weight: 400;
 font-style: normal;
 }
-
 @font-face {
 font-family: 'Roboto Condensed';
 src: url('../fonts/RobotoCondensed-Bold.eot');
@@ -17,7 +16,6 @@ url('../fonts/RobotoCondensed-Bold.ttf') format('truetype');
 font-weight: 700;
 font-style: normal;
 }
-
 @font-face {
 font-family: 'Roboto';
 src: url('../fonts/Roboto-Regular.eot');
@@ -27,7 +25,6 @@ url('../fonts/Roboto-Regular.ttf') format('truetype');
 font-weight: 400;
 font-style: normal;
 }
-
 @font-face {
 font-family: 'Roboto';
 src: url('../fonts/Roboto-Bold.eot');
@@ -39,7 +36,7 @@ font-style: normal;
 }
 
 body {
-	background-color: #0b0b0b;
+	background-color: #fff;
 	color: #fff;
 	font-size: 24px;
 	line-height: 28px;
